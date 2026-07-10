@@ -1,0 +1,65 @@
+{
+  "id": "fvtt-nin-ghosts-annotated",
+  "title": "NIN Ghosts RPG Annotations - Music Browser",
+  "description": "A searchable Foundry VTT browser for Nine Inch Nails Ghosts tracks curated for tabletop RPG scenes.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Jeremy Glebe"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": [
+    "scripts/fvtt-nin-ghosts-annotated.mjs"
+  ],
+  "styles": [
+    "styles/fvtt-nin-ghosts-annotated.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "ghosts-i-iv-playlists",
+      "label": "NIN Ghosts I-IV: Playlists",
+      "banner": "modules/fvtt-nin-ghosts-annotated/art/cover_nine-inch-nails-ghosts-i-iv.webp",
+      "path": "packs/ghosts-i-iv-playlists",
+      "type": "Playlist"
+    },
+    {
+      "name": "ghosts-v-vi-playlists",
+      "label": "NIN Ghosts V-VI: Playlists",
+      "banner": "modules/fvtt-nin-ghosts-annotated/music/ghosts-v-together/cover.jpg",
+      "path": "packs/ghosts-v-vi-playlists",
+      "type": "Playlist"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Nine Inch Nails Ghosts",
+      "sorting": "m",
+      "color": "#515245",
+      "packs": [
+        "ghosts-i-iv-playlists",
+        "ghosts-v-vi-playlists"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/fvtt-nin-ghosts-annotated/art/cover_nine-inch-nails-ghosts-i-iv.webp",
+      "thumbnail": "modules/fvtt-nin-ghosts-annotated/art/cover_nine-inch-nails-ghosts-i-iv.webp"
+    }
+  ],
+  "url": "https://github.com/jeremyglebe/fvtt-nin-ghosts-annotated-release",
+  "manifest": "https://github.com/jeremyglebe/fvtt-nin-ghosts-annotated-release/releases/latest/download/module.json",
+  "download": "https://github.com/jeremyglebe/fvtt-nin-ghosts-annotated-release/releases/download/v0.0.1/module.zip"
+}

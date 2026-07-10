@@ -1,0 +1,1 @@
+{"version":3,"file":"constants-BTCouAkl.js","names":[],"sources":["../src/module/constants.ts"],"sourcesContent":["export const MODULE_ID = \"fvtt-nin-ghosts-annotated\";\nexport const MODULE_TITLE = \"NIN Ghosts RPG Annotations - Music Browser\";\n"],"mappings":";AAAA,IAAa,IAAY,6BACZ,IAAe"}
