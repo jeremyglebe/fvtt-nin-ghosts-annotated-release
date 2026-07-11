@@ -1,6 +1,7 @@
 # NIN Ghosts RPG Annotations - Music Browser
 
-A Foundry VTT module that packages Nine Inch Nails Ghosts tracks and adds a searchable RPG-oriented music browser.
+A Foundry VTT module that packages Nine Inch Nails Ghosts tracks and adds a searchable RPG-oriented
+music browser.
 
 ## Install
 
