@@ -1,5 +1,5 @@
-2026/07/10-19:56:19.862 ac2c Delete type=3 #1
-2026/07/10-19:56:19.885 b2ec Level-0 table #5: started
-2026/07/10-19:56:19.894 b2ec Level-0 table #5: 8585 bytes OK
-2026/07/10-19:56:19.929 b2ec Delete type=0 #3
-2026/07/10-19:56:19.929 b2ec Manual compaction at level-0 from '!playlists!465ffe9d143eaa2d' @ 72057594037927935 : 1 .. '!playlists.sounds!de63451afb9b05c6.f353ecfc1d9bf5a9' @ 0 : 0; will stop at (end)
+2026/07/12-17:43:37.685969 16f76b000 Delete type=3 #1
+2026/07/12-17:43:37.686915 16f7f7000 Level-0 table #5: started
+2026/07/12-17:43:37.687265 16f7f7000 Level-0 table #5: 8585 bytes OK
+2026/07/12-17:43:37.687355 16f7f7000 Delete type=0 #3
+2026/07/12-17:43:37.687432 16f7f7000 Manual compaction at level-0 from '!playlists!465ffe9d143eaa2d' @ 72057594037927935 : 1 .. '!playlists.sounds!de63451afb9b05c6.f353ecfc1d9bf5a9' @ 0 : 0; will stop at (end)
